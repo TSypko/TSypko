@@ -10,9 +10,12 @@
 [SCE - Simple Currency Exchange](https://github.com/TSypko/Currency-Exchange-React)
 
 
+[Veloserwis](https://github.com/TSypko/Veloserwis)
+Fake with headless cms from Wordpress creating website for learning purpose.
+
 ####
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TSypko&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjQ0NTk4OSwtMTI4OTAzNjU0NiwzMz
+eyJoaXN0b3J5IjpbMTg0OTk1Njc3OCwtMTI4OTAzNjU0NiwzMz
 MwMDQ2MzNdfQ==
 -->
