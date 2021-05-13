@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Tomasz!
 
-![](assets/images/mainImage.png)
-
 ## My TECH STACK:
 
 ![](assets/icons/html.png)
